@@ -12,6 +12,9 @@
 
 # msky
 
+> [!IMPORTANT]
+> msky has moved to [nao1215/social-terminal-clients](https://github.com/nao1215/social-terminal-clients/tree/main/crates/misskey-terminal-client), where it shares one repository with bsky. Please open issues and pull requests there. This repository is no longer developed; v0.1.0 and v0.1.1 stay on its [releases page](https://github.com/nao1215/misskey-terminal-client/releases).
+
 A [Misskey](https://misskey-hub.net) client for the terminal. Pictures and videos are drawn in place.
 
 ![the timeline, a note's video and pictures, a thread, a profile and the notifications](doc/img/demo.gif)
